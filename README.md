@@ -182,6 +182,24 @@ For each video frame:
 | Occupied Spaces | 17 |
 
 These values correspond to the demonstration shown in the project report.
+### 📸 Project Demonstration
+
+#### Parking Space Selection
+
+An interactive OpenCV tool was used to manually define 42 parking spaces in the reference video frame.
+
+![Parking Space Selection](images/parking_space_selection.png)
+
+#### Real-Time Parking Occupancy Dashboard
+
+The monitoring system classifies parking spaces and visualizes their occupancy status.
+
+- 🟢 Green: Available parking spaces
+- 🔴 Red: Occupied parking spaces
+
+The demonstration shows **25 available spaces** and **17 occupied spaces**.
+
+![Real-Time Parking Dashboard](images/parking_dashboard.png)
 
 ## 📈 8. Key Results
 
